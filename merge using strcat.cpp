@@ -10,5 +10,6 @@ int main()
 	strcat(str1,str2);
 	printf("combined string:%s\n",str1);
 	return 0;
-	
 }
+
+
